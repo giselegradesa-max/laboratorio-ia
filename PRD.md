@@ -1,16 +1,20 @@
-# PRD – eBook "IA + n8n do Zero ao Primeiro Cliente"
+# PRD (Product Requirements Document)
 
-## 1. Visão do Projeto
+## Projeto: eBook "IA + n8n do Zero"
 
-### Nome provisório
+**Versão:** 1.0
+**Status:** Planejamento
+**Autor:** Product Manager (Iniciante)
 
-**IA + n8n: Do Zero ao Primeiro Cliente**
+---
 
-### Objetivo
+# 1. Visão do Produto
 
-Criar um eBook que ensine qualquer pessoa, mesmo sem experiência em programação, a utilizar Inteligência Artificial e n8n para criar automações úteis, resolver problemas reais e transformar esse conhecimento em uma fonte de renda.
+Criar um eBook completo, simples e prático que ensine qualquer pessoa a utilizar Inteligência Artificial e n8n desde o absoluto zero.
 
-O eBook deverá levar o leitor desde os conceitos básicos até a criação de sua primeira automação e mostrar como oferecer esse serviço para empresas.
+O objetivo é que o leitor não apenas entenda os conceitos, mas consiga criar automações reais e descobrir formas de transformar esse conhecimento em renda.
+
+O conteúdo será voltado para a prática, evitando excesso de teoria.
 
 ---
 
@@ -18,223 +22,260 @@ O eBook deverá levar o leitor desde os conceitos básicos até a criação de s
 
 Hoje muitas pessoas:
 
-* acham que IA é difícil;
-* acreditam que precisam saber programar;
-* não sabem por onde começar;
-* fazem vários cursos, mas não conseguem aplicar;
-* não conseguem ganhar dinheiro com o conhecimento adquirido.
+* acham IA complicada;
+* nunca ouviram falar do n8n;
+* acreditam que automação é apenas para programadores;
+* não sabem como usar IA para ganhar dinheiro;
+* desperdiçam horas fazendo tarefas repetitivas.
 
-O eBook resolve esse problema mostrando um caminho único, organizado e prático.
-
----
-
-# 3. Público-alvo
-
-### Primário
-
-Pessoas que nunca programaram.
-
-### Secundário
-
-Pessoas que querem trabalhar remotamente.
-
-### Terciário
-
-Pequenos empresários que desejam automatizar tarefas.
+O eBook pretende resolver exatamente esse problema.
 
 ---
 
-# 4. Resultado esperado
+# 3. Objetivo
 
-Ao terminar o eBook o leitor deverá conseguir:
+Ao finalizar a leitura, o leitor deverá ser capaz de:
 
-✅ entender o que é Inteligência Artificial
+✅ entender como funciona a IA
 
-✅ entender o que é automação
+✅ entender o que é o n8n
 
-✅ instalar e configurar o n8n
-
-✅ conectar ferramentas de IA
+✅ instalar o n8n
 
 ✅ criar sua primeira automação
 
-✅ criar automações úteis
+✅ conectar IA ao n8n
 
-✅ identificar problemas de empresas
+✅ criar um agente de IA
 
-✅ transformar automações em serviços
+✅ automatizar tarefas do dia a dia
 
-✅ conseguir seu primeiro cliente
-
----
-
-# 5. Objetivos do Produto
-
-O eBook precisa:
-
-* ser extremamente simples;
-* não exigir programação;
-* utilizar linguagem acessível;
-* possuir muitas imagens;
-* possuir exemplos reais;
-* possuir exercícios;
-* possuir checklists;
-* possuir projetos práticos.
+✅ conhecer maneiras de vender automações para empresas
 
 ---
 
-# 6. Estrutura Geral
+# 4. Público-alvo
 
-## Parte 1
+Este eBook é destinado para:
 
-### Entendendo a IA
+* iniciantes completos
+* pessoas que nunca utilizaram IA
+* estudantes
+* freelancers
+* pequenos empreendedores
+* profissionais administrativos
+* profissionais de marketing
+* pessoas que querem trabalhar com automação
+* quem deseja criar uma renda extra
+
+---
+
+# 5. Proposta de Valor
+
+Ao invés de ensinar apenas teoria, o eBook mostrará exatamente como construir automações úteis.
+
+O leitor termina com conhecimento prático e projetos funcionando.
+
+---
+
+# 6. Conteúdo (Funcionalidades)
+
+O eBook deverá ensinar:
+
+## Módulo 1 — Introdução
 
 * O que é IA
 * Como funciona
 * Tipos de IA
-* Mitos
-* Oportunidades
+* Mitos e verdades
 
 ---
 
-## Parte 2
+## Módulo 2 — Ferramentas de IA
 
-### Conhecendo o n8n
-
-* O que é
-* Como funciona
-* Interface
-* Nodes
-* Workflows
-
----
-
-## Parte 3
-
-### Primeiras automações
-
-Projetos simples:
-
-* enviar e-mail automático
-* responder WhatsApp
-* organizar planilhas
-* resumir textos
-* gerar posts
-
----
-
-## Parte 4
-
-### IA + n8n
-
-Integrações com:
+Apresentação de ferramentas como:
 
 * ChatGPT
+* Claude
+* Gemini
+* Perplexity
+* outras opções gratuitas
+
+---
+
+## Módulo 3 — Introdução ao n8n
+
+* O que é
+* Para que serve
+* Como funciona
+* Casos reais
+
+---
+
+## Módulo 4 — Instalação
+
+Passo a passo para instalar.
+
+Incluindo opções gratuitas.
+
+---
+
+## Módulo 5 — Interface
+
+Explicação de:
+
+* Nodes
+* Workflows
+* Trigger
+* Execute
+* Credenciais
+* Logs
+
+---
+
+## Módulo 6 — Primeira Automação
+
+Projeto simples.
+
+Exemplo:
+
+Receber mensagem → IA responde → salvar resultado.
+
+---
+
+## Módulo 7 — Integração com IA
+
+Como conectar:
+
+* OpenAI
 * Gemini
 * Claude
-* DeepSeek
 * APIs
 
 ---
 
-## Parte 5
+## Módulo 8 — Agentes de IA
 
-### Automações para empresas
-
-Exemplos para:
-
-* restaurantes
-* clínicas
-* lojas
-* advogados
-* imobiliárias
-* contadores
+Criar um agente inteligente utilizando n8n.
 
 ---
 
-## Parte 6
+## Módulo 9 — Automações Úteis
 
-### Como vender
+Exemplos reais:
 
-* identificar problemas
-* criar proposta
-* definir preço
-* fechar contrato
-* entregar projeto
-
----
-
-## Parte 7
-
-### Primeiro cliente
-
-Passo a passo completo.
+* responder WhatsApp
+* responder e-mails
+* criar posts
+* resumir PDFs
+* gerar textos
+* atendimento automático
+* organização de arquivos
 
 ---
 
-# 7. Funcionalidades do eBook
+## Módulo 10 — Como ganhar dinheiro
 
-Cada capítulo deverá conter:
+Ensinar formas de monetização:
 
-* explicação simples;
-* exemplo real;
-* passo a passo;
-* resumo;
-* checklist;
-* desafio prático;
-* dica de IA;
-* erro mais comum.
+* freelancer
+* automações para empresas
+* consultoria
+* criação de agentes
+* venda de templates
+* manutenção de automações
 
 ---
 
-# 8. Diferenciais
+# 7. Diferenciais
 
-Este não será apenas um livro sobre IA.
+O eBook será:
 
-Também ensinará:
-
-* automação;
-* produtividade;
-* criação de serviços;
-* vendas;
-* renda extra;
-* carreira.
-
----
-
-# 9. Métricas de sucesso
-
-O leitor será considerado bem-sucedido quando conseguir:
-
-* criar sua primeira automação;
-* publicar um projeto;
-* apresentar uma proposta comercial;
-* conseguir o primeiro cliente.
+* linguagem simples
+* sem programação complicada
+* passo a passo
+* muitas imagens
+* exemplos reais
+* exercícios
+* desafios
+* dicas práticas
+* totalmente voltado para iniciantes
 
 ---
 
-# 10. Possíveis bônus
+# 8. Requisitos
 
-* Prompt Book com mais de 300 prompts.
-* Biblioteca de workflows do n8n.
-* Templates prontos.
-* Checklists de implantação.
-* Modelos de propostas comerciais.
-* Lista de nichos para prospectar.
-* Guia de precificação.
-* Plano de estudos de 30 dias.
-* Glossário de IA e automação.
-* Comunidade para tirar dúvidas.
+O leitor deverá possuir:
+
+* computador
+* internet
+* navegador
+* vontade de aprender
+
+Conhecimento prévio não será necessário.
 
 ---
 
-# 11. Visão de longo prazo
+# 9. O que NÃO faz parte
 
-Este eBook pode se tornar um **ecossistema de aprendizagem**, em que cada etapa leva naturalmente à próxima:
+O eBook não ensinará:
 
-1. **eBook** – fundamentos de IA e n8n.
-2. **Biblioteca de workflows** – modelos prontos para acelerar projetos.
-3. **Curso em vídeo** – demonstrações práticas de cada automação.
-4. **Comunidade** – espaço para dúvidas, networking e troca de experiências.
-5. **Mentoria** – acompanhamento para quem deseja atuar profissionalmente.
-6. **Marketplace de automações** – venda de templates, fluxos e serviços.
+* programação avançada
+* desenvolvimento profissional em Python
+* criação de modelos de IA
+* matemática de Machine Learning
+* DevOps avançado
+
+O foco será automações práticas.
+
+---
+
+# 10. Critérios de Sucesso
+
+O projeto será considerado bem-sucedido quando o leitor conseguir:
+
+* instalar o n8n
+* criar um workflow
+* integrar uma IA
+* construir uma automação funcional
+* criar um agente de IA
+* aplicar esse conhecimento em um projeto pessoal ou profissional
+* entender como oferecer esse serviço no mercado
+
+---
+
+# 11. Estrutura Inicial do eBook
+
+1. Boas-vindas
+2. O que é Inteligência Artificial
+3. Como a IA funciona
+4. Principais ferramentas
+5. O que é o n8n
+6. Instalando o n8n
+7. Conhecendo a interface
+8. Primeiro Workflow
+9. Nodes
+10. Triggers
+11. APIs
+12. Integração com ChatGPT
+13. Integração com Gemini
+14. Agentes de IA
+15. Automações úteis
+16. Automações para empresas
+17. Como vender automações
+18. Próximos passos
+
+---
+
+# 12. MVP (Produto Mínimo Viável)
+
+A primeira versão do eBook deve conter:
+
+* aproximadamente **100 a 150 páginas**
+* mais de **80 imagens ilustrativas**
+* **10 projetos práticos**
+* exercícios ao final de cada módulo
+* checklist de aprendizado
+* glossário com termos técnicos
+* lista de ferramentas recomendadas
+* seção de perguntas frequentes (FAQ)
